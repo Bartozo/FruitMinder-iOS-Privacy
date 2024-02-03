@@ -1,0 +1,1 @@
+# FruitMinder-iOS-Privacy
